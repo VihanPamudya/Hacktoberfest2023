@@ -25,7 +25,9 @@
 
 📢 Sign up for Hacktoberfest 2023, and contribute four pull requests (PRs) between October 1st-31st to claim your stash of cool SWAGS 🔥.
 
-## To participate, visit: https://hacktoberfest.com/participation/
+# [Visit this repository to contribute to a new project for Hacktoberfest 2023](https://github.com/Ananyasingh2002/OTP-Verification)
+
+## [Click to Participate](https://hacktoberfest.com/participation/)
 
 # Task 1.0
 
@@ -57,7 +59,7 @@ Welcome to our Hacktoberfest 2023 contributing website! We're excited to have yo
 
 ## 1. Add your profile picture to the folder
 
-Add a picture picture of your choice in `images/`. Accepted files are **png** and **jpg**, Ex.
+Add a profile picture of your choice in `images/`. Accepted files are **png** and **jpg**, Ex.
 
 ```
 images/<YOUR-USERNAME>.png
